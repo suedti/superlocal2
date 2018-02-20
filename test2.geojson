@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#e3312a",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -35,7 +39,7 @@
       "properties": {
         "marker-color": "#eb6323",
         "marker-size": "medium",
-        "marker-symbol": "square-stroked",
+        "marker-symbol": "mobilephone",
         "title": "Ditta x",
         "oggetto": "hairdryer",
         "url": "www.sdsd.com",
