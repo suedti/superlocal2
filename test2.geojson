@@ -32,12 +32,20 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#eb6323",
+        "marker-size": "medium",
+        "marker-symbol": "square-stroked",
+        "title": "Ditta x",
+        "oggetto": "hairdryer",
+        "url": "www.sdsd.com",
+        "testo": "sdfsf"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.358811855316162,
-          46.497018545356504
+          11.3543701171875,
+          46.497092401789864
         ]
       }
     }
