@@ -1,0 +1,989 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Grootste Bazaar",
+        "description": "second hand supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5027988,
+          51.4319798,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Karosell",
+        "description": "second hand furniture + electronics ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.46186680000005,
+          51.4520612,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kringloopwinkel",
+        "description": "second hand shop - clothes mainly ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4586697,
+          51.4225624,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Het Goed",
+        "description": "very big second hand shop with all kinds of supplies. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44238680000001,
+          51.4278566,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Polish Market",
+        "description": "big second hand store with a special section about old toys and table games.  http://www.wereldhuiseindhoven.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.461075,
+          51.4252036,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Terre des Hommes ",
+        "description": "Second hand shop. All the supplies are sold for charities for children.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49894180000001,
+          51.4232138,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spulletjes & Zo",
+        "description": "Second hand shop",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.499615,
+          51.4229857,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quilt Puzzel",
+        "description": "Second hand shop. Nice Fabrics for cheap prices. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4717605,
+          51.4498343,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stoffen & Fournituren ",
+        "description": "Second hand shop focused on fabrics.  ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4701973,
+          51.4288378,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Teunissen ",
+        "description": "electronics - Big hardware store. They have a metal dump in the back to collect free metal. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45721930000002,
+          51.4221631,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Collse Waterlelie",
+        "description": "gardening supplies - special fabrics, fishes, stones etc..  ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.529688,
+          51.450196,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Warmteservice Eindhoven",
+        "description": "metal tubes for ventilation ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440262,
+          51.433019,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beek Art Supplies Van",
+        "description": "art supplies",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47549,
+          51.446921,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Civo Design BV",
+        "description": "art supplies",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475171,
+          51.440068,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "WillieS Modelbouw Centrum",
+        "description": "modeling supplies",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475241,
+          51.447092,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GAMMA",
+        "description": "bricolage ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49753,
+          51.436337,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Praxis Bouwmarkt",
+        "description": "bricolage",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.495662,
+          51.436791,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tuesday Market",
+        "description": "fabrics",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47786740000004,
+          51.4415073,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Van der Vleuten Bouwmaterialen",
+        "description": "second hand materials  http://www.vleutenbouwmaterialen.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4134604,
+          51.5087826,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Teunissen Scrapyard",
+        "description": "metal scrapyard",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4570299,
+          51.4220061,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kees Berende Glassworks",
+        "description": "glass works  http://www.glasblazerijkeesberende.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4418538,
+          51.4748137,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Metal Scrapyard",
+        "description": "http://www.amvandemortel.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5087387,
+          51.4347045,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lucas",
+        "description": "materials and tools http://www.lucas-vakmaterialen.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.436279,
+          51.4369148,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pipoos",
+        "description": "art supplies www.pipoos.nl",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47608960000002,
+          51.441921,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Praxis Eindhoven (Plan-it)",
+        "description": "DIY shop",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.427897,
+          51.435383,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Action",
+        "description": "discount store - Spraypaint, tools, office supplies, toys, decorative and do-it-yourself.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4623732,
+          51.4277196,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cheaptronics",
+        "description": "electronics",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47523690000003,
+          51.4472789,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Yoga Studio Eindhoven",
+        "description": "cork supplier ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.465423,
+          51.430628,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brammer Eindhoven B.V.",
+        "description": "bearings + mechanical parts ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.479003,
+          51.478768,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rogimac ",
+        "description": "second hand machines + small workshop for assembling metal parts. Skills: welder+miller",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47799348831177,
+          51.4788839147007,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "smitje creations",
+        "description": "textile and sewing supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475454,
+          51.437571,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tielemans Naaimachines B.V.",
+        "description": "sewing machines and parts supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.471641,
+          51.451979,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Amazing Oriental Eindhoven",
+        "description": "various specialized ingredients. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.464846,
+          51.439867,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Kampeermarkt",
+        "description": "camping tools supplier. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45167,
+          51.431255,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biological Farm",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47449460000007,
+          51.4202685,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "EKC Afbouwmaterialen",
+        "description": "Sanitary supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.502783,
+          51.435408,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "repro rijnija",
+        "description": "big printshop, 30% discount for students  http://www.rijnja.nl/ ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43346270000006,
+          51.418728,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ERIKS Kunstoffen Eindhoven",
+        "description": "acrylic supplier, prexiglass sheets, various thicknesses. email: Coen.Faassen@Eriks.nl ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.441779,
+          51.477904,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Urkhovenseweg 570",
+        "description": "gardening supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52812340000003,
+          51.4409332,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "art supplier",
+        "description": "art supplies + book binding material ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47290802001953,
+          51.4382629615223,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brigatti Electronics V.O.F.",
+        "description": "electric appliances ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503846,
+          51.438489,
+          0
+        ]
+      }
+    }
+  ]
+}
