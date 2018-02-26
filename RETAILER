@@ -1,0 +1,5331 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.350035667419432,
+            46.494551682854265
+          ],
+          [
+            11.351709365844727,
+            46.49706285922857
+          ],
+          [
+            11.355915069580078,
+            46.49472894616696
+          ],
+          [
+            11.358232498168945,
+            46.49596977317704
+          ],
+          [
+            11.35836124420166,
+            46.496176574926125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.34051090192056,
+            46.49493622845104,
+            0
+          ],
+          [
+            11.34333884370536,
+            46.49467681824075,
+            0
+          ],
+          [
+            11.34771640054556,
+            46.49472651698962,
+            0
+          ],
+          [
+            11.34977022751298,
+            46.49504205981189,
+            0
+          ],
+          [
+            11.34991523408247,
+            46.49501499874695,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Untitled Path"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3444515,
+          46.4977052,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MANU laboratori aperti",
+        "description": "http://www.manu.bz.it/it/",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.29708,
+          46.4791,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Argentieri Bolzano",
+        "description": "trattamenti e finiture superficiali metalli",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3282411,
+          46.4725439,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gobbi carpenteria in ferro ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3285755,
+          46.473548,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oleomec",
+        "description": "lavorazioni meccaniche",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3213313,
+          46.4937605,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GHIMA",
+        "description": "carpenteria metallica",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3369036,
+          46.4893963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "AKRAT recycling ",
+        "description": "laboratorio per lavorare materiali di riuso",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.372336,
+          46.4962106,
+          0
+        ]
+      },
+      "properties": {
+        "name": "TT Solution Snc Di Nardelli Mauro E Luca & Co.",
+        "description": "timbri e non solo ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3704445,
+          46.4953326,
+          0
+        ]
+      },
+      "properties": {
+        "name": "lvh.apa Bezirksbüro Bozen - Ufficio circondariale Bolzano",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3730617,
+          46.4956384,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Battisti Roland",
+        "description": "lavorazione acciaio ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3723409,
+          46.4951167,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marmor Menapace",
+        "description": "lavorazione pietra ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3720639,
+          46.4951432,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bruno Di Summerer Albert",
+        "description": "manifattura ostie",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.370287,
+          46.494623,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pemec Srl",
+        "description": "lavorazione metalli CNC",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3387673,
+          46.4956528,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HANDS ",
+        "description": "laboratori per recupero dipendenze",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3310044,
+          46.4949299,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cooperativa Seriana ",
+        "description": "lavorazione cotone e tessuti di seconda mano  https://www.dropbox.com/s/5xvayb9driwjfmd/Brochure%20Bolzano.pdf?dl=0",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3369036,
+          46.4893963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wellwool",
+        "description": "lavorazione feltro, cotone, cotone organico, canapa, lino, essiccati di mela, cereali organici, legno di cirmolo e di larice",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341695,
+          46.490977,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Studio Giallo Argento",
+        "description": "vetreria artistica",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3322559,
+          46.4952957,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CLAB ",
+        "description": "cooperativa sociale / legatoria e stampa ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3695598,
+          46.4953021,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lucchesini Falegnameria",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3282411,
+          46.4725439,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gobbi laser",
+        "description": "Carpenteria metallo",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3285755,
+          46.473548,
+          0
+        ]
+      },
+      "properties": {
+        "name": "OLEOMEC",
+        "description": "lavorazioni meccaniche (macchinari per raccolta frutta)",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35938,
+          46.4988453,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vmarket",
+        "description": "mercato dell'usato ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3252771,
+          46.4891218,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kaleidos ",
+        "description": "vetro, tessuto ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5462498,
+          46.4276951,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Segheria demaniale Latemar",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3244805,
+          46.4720969,
+          0
+        ]
+      },
+      "properties": {
+        "name": "3LCO",
+        "description": "negozio elettronica ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3336298,
+          46.4854086,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ramoser Holz Srl",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446748,
+          46.4926944,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GBC Bolzano",
+        "description": "elettronica audio e video ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3357605,
+          46.4791128,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Valbruna",
+        "description": "acciaierie",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3746716,
+          46.4933588,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vetroricerca Glass Art Design",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3483507,
+          46.4978217,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bitz unibz fablab",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4459363,
+          46.5299175,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Falegnameria",
+        "description": "attrezzature sportive e su commissione",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3177775,
+          46.4715756,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lamafer",
+        "description": "riciclo legno e altro ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.320709,
+          46.4735379,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SANTINI",
+        "description": "riciclo materiali ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.34459,
+            46.49261,
+            0
+          ],
+          [
+            11.34436,
+            46.49271,
+            0
+          ],
+          [
+            11.344,
+            46.49286,
+            0
+          ],
+          [
+            11.34354,
+            46.49305,
+            0
+          ],
+          [
+            11.34307,
+            46.49323,
+            0
+          ],
+          [
+            11.34284,
+            46.49295,
+            0
+          ],
+          [
+            11.34263,
+            46.49273,
+            0
+          ],
+          [
+            11.34214,
+            46.49236,
+            0
+          ],
+          [
+            11.34138,
+            46.49217,
+            0
+          ],
+          [
+            11.34144,
+            46.492,
+            0
+          ],
+          [
+            11.34189,
+            46.49099,
+            0
+          ],
+          [
+            11.34192,
+            46.49093,
+            0
+          ],
+          [
+            11.342,
+            46.49074,
+            0
+          ],
+          [
+            11.3421,
+            46.49048,
+            0
+          ],
+          [
+            11.34221,
+            46.49022,
+            0
+          ],
+          [
+            11.34223,
+            46.49015,
+            0
+          ],
+          [
+            11.34228,
+            46.49004,
+            0
+          ],
+          [
+            11.3423,
+            46.48997,
+            0
+          ],
+          [
+            11.34232,
+            46.4899,
+            0
+          ],
+          [
+            11.34233,
+            46.48989,
+            0
+          ],
+          [
+            11.34236,
+            46.48981,
+            0
+          ],
+          [
+            11.34243,
+            46.48964,
+            0
+          ],
+          [
+            11.34297,
+            46.48839,
+            0
+          ],
+          [
+            11.34297,
+            46.48835,
+            0
+          ],
+          [
+            11.34297,
+            46.48833,
+            0
+          ],
+          [
+            11.34297,
+            46.4883,
+            0
+          ],
+          [
+            11.343,
+            46.48816,
+            0
+          ],
+          [
+            11.34298,
+            46.48815,
+            0
+          ],
+          [
+            11.34297,
+            46.48814,
+            0
+          ],
+          [
+            11.34295,
+            46.48813,
+            0
+          ],
+          [
+            11.34294,
+            46.48812,
+            0
+          ],
+          [
+            11.34283,
+            46.48808,
+            0
+          ],
+          [
+            11.34274,
+            46.48806,
+            0
+          ],
+          [
+            11.34267,
+            46.48805,
+            0
+          ],
+          [
+            11.34243,
+            46.48802,
+            0
+          ],
+          [
+            11.34222,
+            46.48801,
+            0
+          ],
+          [
+            11.34165,
+            46.48797,
+            0
+          ],
+          [
+            11.34152,
+            46.48796,
+            0
+          ],
+          [
+            11.34149,
+            46.48796,
+            0
+          ],
+          [
+            11.34146,
+            46.48796,
+            0
+          ],
+          [
+            11.34145,
+            46.48795,
+            0
+          ],
+          [
+            11.34143,
+            46.48794,
+            0
+          ],
+          [
+            11.34141,
+            46.48792,
+            0
+          ],
+          [
+            11.34134,
+            46.48787,
+            0
+          ],
+          [
+            11.34133,
+            46.48787,
+            0
+          ],
+          [
+            11.34118,
+            46.48776,
+            0
+          ],
+          [
+            11.34063,
+            46.48774,
+            0
+          ],
+          [
+            11.34051,
+            46.48773,
+            0
+          ],
+          [
+            11.3403,
+            46.48772,
+            0
+          ],
+          [
+            11.34012,
+            46.4877,
+            0
+          ],
+          [
+            11.33988,
+            46.48767,
+            0
+          ],
+          [
+            11.33968,
+            46.48765,
+            0
+          ],
+          [
+            11.33943,
+            46.4876,
+            0
+          ],
+          [
+            11.33926,
+            46.48757,
+            0
+          ],
+          [
+            11.33906,
+            46.48753,
+            0
+          ],
+          [
+            11.33883,
+            46.48748,
+            0
+          ],
+          [
+            11.33853,
+            46.48743,
+            0
+          ],
+          [
+            11.33809,
+            46.48734,
+            0
+          ],
+          [
+            11.33771,
+            46.48726,
+            0
+          ],
+          [
+            11.33751,
+            46.48722,
+            0
+          ],
+          [
+            11.33604,
+            46.48691,
+            0
+          ],
+          [
+            11.33529,
+            46.48675,
+            0
+          ],
+          [
+            11.3347,
+            46.48662,
+            0
+          ],
+          [
+            11.33436,
+            46.48653,
+            0
+          ],
+          [
+            11.33421,
+            46.48648,
+            0
+          ],
+          [
+            11.33395,
+            46.48641,
+            0
+          ],
+          [
+            11.3336,
+            46.4863,
+            0
+          ],
+          [
+            11.33347,
+            46.48625,
+            0
+          ],
+          [
+            11.3332,
+            46.48617,
+            0
+          ],
+          [
+            11.33283,
+            46.48606,
+            0
+          ],
+          [
+            11.33236,
+            46.48593,
+            0
+          ],
+          [
+            11.33216,
+            46.48587,
+            0
+          ],
+          [
+            11.33196,
+            46.48583,
+            0
+          ],
+          [
+            11.33174,
+            46.48578,
+            0
+          ],
+          [
+            11.33133,
+            46.48567,
+            0
+          ],
+          [
+            11.33088,
+            46.48555,
+            0
+          ],
+          [
+            11.3306,
+            46.48547,
+            0
+          ],
+          [
+            11.33012,
+            46.48532,
+            0
+          ],
+          [
+            11.32979,
+            46.4852,
+            0
+          ],
+          [
+            11.3296,
+            46.48513,
+            0
+          ],
+          [
+            11.32935,
+            46.48503,
+            0
+          ],
+          [
+            11.32913,
+            46.48494,
+            0
+          ],
+          [
+            11.32877,
+            46.48479,
+            0
+          ],
+          [
+            11.32813,
+            46.48447,
+            0
+          ],
+          [
+            11.32778,
+            46.48426,
+            0
+          ],
+          [
+            11.32739,
+            46.48403,
+            0
+          ],
+          [
+            11.32714,
+            46.48385,
+            0
+          ],
+          [
+            11.32677,
+            46.48359,
+            0
+          ],
+          [
+            11.32629,
+            46.48322,
+            0
+          ],
+          [
+            11.32625,
+            46.48319,
+            0
+          ],
+          [
+            11.32585,
+            46.48288,
+            0
+          ],
+          [
+            11.32551,
+            46.48262,
+            0
+          ],
+          [
+            11.32493,
+            46.48217,
+            0
+          ],
+          [
+            11.32478,
+            46.48204,
+            0
+          ],
+          [
+            11.32474,
+            46.48201,
+            0
+          ],
+          [
+            11.3247,
+            46.4819,
+            0
+          ],
+          [
+            11.32469,
+            46.4819,
+            0
+          ],
+          [
+            11.32469,
+            46.48189,
+            0
+          ],
+          [
+            11.32466,
+            46.48186,
+            0
+          ],
+          [
+            11.32445,
+            46.48168,
+            0
+          ],
+          [
+            11.32423,
+            46.4815,
+            0
+          ],
+          [
+            11.32393,
+            46.48125,
+            0
+          ],
+          [
+            11.32415,
+            46.48111,
+            0
+          ],
+          [
+            11.32426,
+            46.48105,
+            0
+          ],
+          [
+            11.32449,
+            46.48092,
+            0
+          ],
+          [
+            11.32468,
+            46.48084,
+            0
+          ],
+          [
+            11.32491,
+            46.48076,
+            0
+          ],
+          [
+            11.32517,
+            46.48069,
+            0
+          ],
+          [
+            11.32578,
+            46.48058,
+            0
+          ],
+          [
+            11.32589,
+            46.48052,
+            0
+          ],
+          [
+            11.32596,
+            46.4805,
+            0
+          ],
+          [
+            11.32601,
+            46.48047,
+            0
+          ],
+          [
+            11.32605,
+            46.48044,
+            0
+          ],
+          [
+            11.32608,
+            46.48041,
+            0
+          ],
+          [
+            11.32612,
+            46.48037,
+            0
+          ],
+          [
+            11.32615,
+            46.48036,
+            0
+          ],
+          [
+            11.32616,
+            46.48035,
+            0
+          ],
+          [
+            11.32617,
+            46.48035,
+            0
+          ],
+          [
+            11.32618,
+            46.48035,
+            0
+          ],
+          [
+            11.3262,
+            46.48035,
+            0
+          ],
+          [
+            11.32621,
+            46.48034,
+            0
+          ],
+          [
+            11.32622,
+            46.48034,
+            0
+          ],
+          [
+            11.32623,
+            46.48034,
+            0
+          ],
+          [
+            11.32625,
+            46.48034,
+            0
+          ],
+          [
+            11.32626,
+            46.48034,
+            0
+          ],
+          [
+            11.32627,
+            46.48034,
+            0
+          ],
+          [
+            11.32628,
+            46.48035,
+            0
+          ],
+          [
+            11.3263,
+            46.48035,
+            0
+          ],
+          [
+            11.32631,
+            46.48035,
+            0
+          ],
+          [
+            11.32632,
+            46.48035,
+            0
+          ],
+          [
+            11.32633,
+            46.48036,
+            0
+          ],
+          [
+            11.32635,
+            46.48036,
+            0
+          ],
+          [
+            11.32636,
+            46.48037,
+            0
+          ],
+          [
+            11.32637,
+            46.48037,
+            0
+          ],
+          [
+            11.32638,
+            46.48038,
+            0
+          ],
+          [
+            11.32639,
+            46.48038,
+            0
+          ],
+          [
+            11.3264,
+            46.48039,
+            0
+          ],
+          [
+            11.3264,
+            46.4804,
+            0
+          ],
+          [
+            11.32641,
+            46.48041,
+            0
+          ],
+          [
+            11.32642,
+            46.48041,
+            0
+          ],
+          [
+            11.32643,
+            46.48042,
+            0
+          ],
+          [
+            11.32643,
+            46.48043,
+            0
+          ],
+          [
+            11.32644,
+            46.48044,
+            0
+          ],
+          [
+            11.32644,
+            46.48045,
+            0
+          ],
+          [
+            11.32645,
+            46.48045,
+            0
+          ],
+          [
+            11.32664,
+            46.48042,
+            0
+          ],
+          [
+            11.32684,
+            46.48039,
+            0
+          ],
+          [
+            11.32741,
+            46.4803,
+            0
+          ],
+          [
+            11.32837,
+            46.48016,
+            0
+          ],
+          [
+            11.32865,
+            46.48012,
+            0
+          ],
+          [
+            11.32873,
+            46.48011,
+            0
+          ],
+          [
+            11.32928,
+            46.48002,
+            0
+          ],
+          [
+            11.32928,
+            46.48001,
+            0
+          ],
+          [
+            11.32927,
+            46.47999,
+            0
+          ],
+          [
+            11.32927,
+            46.47997,
+            0
+          ],
+          [
+            11.32927,
+            46.47996,
+            0
+          ],
+          [
+            11.32927,
+            46.47994,
+            0
+          ],
+          [
+            11.32927,
+            46.47992,
+            0
+          ],
+          [
+            11.32928,
+            46.47991,
+            0
+          ],
+          [
+            11.32928,
+            46.47989,
+            0
+          ],
+          [
+            11.32929,
+            46.47988,
+            0
+          ],
+          [
+            11.3293,
+            46.47986,
+            0
+          ],
+          [
+            11.32932,
+            46.47985,
+            0
+          ],
+          [
+            11.32933,
+            46.47983,
+            0
+          ],
+          [
+            11.32935,
+            46.47982,
+            0
+          ],
+          [
+            11.32937,
+            46.47981,
+            0
+          ],
+          [
+            11.32939,
+            46.4798,
+            0
+          ],
+          [
+            11.32941,
+            46.47979,
+            0
+          ],
+          [
+            11.32943,
+            46.47978,
+            0
+          ],
+          [
+            11.32942,
+            46.47976,
+            0
+          ],
+          [
+            11.32861,
+            46.47844,
+            0
+          ],
+          [
+            11.32796,
+            46.47742,
+            0
+          ],
+          [
+            11.32773,
+            46.47702,
+            0
+          ],
+          [
+            11.32709,
+            46.47591,
+            0
+          ],
+          [
+            11.32658,
+            46.47511,
+            0
+          ],
+          [
+            11.32602,
+            46.47418,
+            0
+          ],
+          [
+            11.32591,
+            46.47403,
+            0
+          ],
+          [
+            11.32585,
+            46.47394,
+            0
+          ],
+          [
+            11.32574,
+            46.47379,
+            0
+          ],
+          [
+            11.32548,
+            46.47335,
+            0
+          ],
+          [
+            11.32506,
+            46.47268,
+            0
+          ],
+          [
+            11.32465,
+            46.47205,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Indicazioni stradali da Via Napoli, 2 a 3LCO",
+        "tessellate": 1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3445931,
+          46.4926062,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Via Napoli, 2",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3246516,
+          46.4720453,
+          0
+        ]
+      },
+      "properties": {
+        "name": "3LCO",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5027988,
+          51.4319798,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De Grootste Bazaar",
+        "description": "second hand supplier",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4618668,
+          51.4520612,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Karosell",
+        "description": "second hand furniture + electronics ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4586697,
+          51.4225624,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kringloopwinkel",
+        "description": "second hand shop - clothes mainly ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4423868,
+          51.4278566,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Het Goed",
+        "description": "very big second hand shop with all kinds of supplies. ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.461075,
+          51.4252036,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Polish Market",
+        "description": "big second hand store with a special section about old toys and table games.  http://www.wereldhuiseindhoven.nl/",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4989418,
+          51.4232138,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Terre des Hommes ",
+        "description": "Second hand shop. All the supplies are sold for charities for children.",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.499615,
+          51.4229857,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Spulletjes & Zo",
+        "description": "Second hand shop",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4717605,
+          51.4498343,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quilt Puzzel",
+        "description": "Second hand shop. Nice Fabrics for cheap prices. ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4701973,
+          51.4288378,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stoffen & Fournituren ",
+        "description": "Second hand shop focused on fabrics.  ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4572193,
+          51.4221631,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Teunissen ",
+        "description": "electronics - Big hardware store. They have a metal dump in the back to collect free metal. ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.529688,
+          51.450196,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De Collse Waterlelie",
+        "description": "gardening supplies - special fabrics, fishes, stones etc..  ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440262,
+          51.433019,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Warmteservice Eindhoven",
+        "description": "metal tubes for ventilation ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47549,
+          51.446921,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beek Art Supplies Van",
+        "description": "art supplies",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475171,
+          51.440068,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Civo Design BV",
+        "description": "art supplies",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475241,
+          51.447092,
+          0
+        ]
+      },
+      "properties": {
+        "name": "WillieS Modelbouw Centrum",
+        "description": "modeling supplies",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49753,
+          51.436337,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GAMMA",
+        "description": "bricolage ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.495662,
+          51.436791,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Praxis Bouwmarkt",
+        "description": "bricolage",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4778674,
+          51.4415073,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tuesday Market",
+        "description": "fabrics",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4134604,
+          51.5087826,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Van der Vleuten Bouwmaterialen",
+        "description": "second hand materials  http://www.vleutenbouwmaterialen.nl/",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4570299,
+          51.4220061,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Teunissen Scrapyard",
+        "description": "metal scrapyard",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4418538,
+          51.4748137,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kees Berende Glassworks",
+        "description": "glass works  http://www.glasblazerijkeesberende.nl/",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5087387,
+          51.4347045,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Metal Scrapyard",
+        "description": "http://www.amvandemortel.nl/",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.436279,
+          51.4369148,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lucas",
+        "description": "materials and tools http://www.lucas-vakmaterialen.nl/",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4760896,
+          51.441921,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pipoos",
+        "description": "art supplies www.pipoos.nl",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.427897,
+          51.435383,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Praxis Eindhoven (Plan-it)",
+        "description": "DIY shop",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4623732,
+          51.4277196,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Action",
+        "description": "discount store - Spraypaint, tools, office supplies, toys, decorative and do-it-yourself.",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4752369,
+          51.4472789,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cheaptronics",
+        "description": "electronics",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.465423,
+          51.430628,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De Yoga Studio Eindhoven",
+        "description": "cork supplier ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.479003,
+          51.478768,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brammer Eindhoven B.V.",
+        "description": "bearings + mechanical parts ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47799348831177,
+          51.4788839147007,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rogimac ",
+        "description": "second hand machines + small workshop for assembling metal parts. Skills: welder+miller",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475454,
+          51.437571,
+          0
+        ]
+      },
+      "properties": {
+        "name": "smitje creations",
+        "description": "textile and sewing supplier",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.471641,
+          51.451979,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tielemans Naaimachines B.V.",
+        "description": "sewing machines and parts supplier",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.464846,
+          51.439867,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Amazing Oriental Eindhoven",
+        "description": "various specialized ingredients. ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45167,
+          51.431255,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De Kampeermarkt",
+        "description": "camping tools supplier. ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4744946,
+          51.4202685,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Biological Farm",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.502783,
+          51.435408,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EKC Afbouwmaterialen",
+        "description": "Sanitary supplier",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4334627,
+          51.418728,
+          0
+        ]
+      },
+      "properties": {
+        "name": "repro rijnija",
+        "description": "big printshop, 30% discount for students  http://www.rijnja.nl/ ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.441779,
+          51.477904,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ERIKS Kunstoffen Eindhoven",
+        "description": "acrylic supplier, prexiglass sheets, various thicknesses. email: Coen.Faassen@Eriks.nl ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5281234,
+          51.4409332,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Urkhovenseweg 570",
+        "description": "gardening supplier",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47290802001953,
+          51.4382629615223,
+          0
+        ]
+      },
+      "properties": {
+        "name": "art supplier",
+        "description": "art supplies + book binding material ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503846,
+          51.438489,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brigatti Electronics V.O.F.",
+        "description": "electric appliances ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.442032,
+          51.436096,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shapeways B.V.",
+        "description": "3D printing shop ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.457659,
+          51.449433,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De-factorij.nl",
+        "description": "3D printing + laser cut ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4573673,
+          51.4445833,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Baltan/Natlab Laboratories",
+        "description": "research lab on new open design systems + programming support. ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5236415,
+          51.4469896,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Easy Laser",
+        "description": "laser cut ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.461467,
+          51.4429944,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fablab brainport",
+        "description": "laser cut, 3D printing, CNC machinery.",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4877195,
+          51.439161,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beeldestorm - casting workshop ",
+        "description": "Tu/e casting workshop + sand blasting",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5199186,
+          51.4479557,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oude Raadhuis",
+        "description": "wood workshop for retired people  raadhuis@onsneteindhoven.nl",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4583014,
+          51.4224836,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tool sharpening machinist",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4927993,
+          51.4465632,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Daglicht",
+        "description": "graphic atelier for lithography and silkscreen info@grapfisch-atelier-daglicht.nl",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.484414,
+          51.433018,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CKE Eindhoven: theaterschool, musicalschool, school voor beeldende kunst en schrijversschool",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4400169,
+          51.4300599,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Efte Coating BV",
+        "description": "special coating service 040-2380880",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4876908,
+          51.4391785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kelderman en van Noort",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.482329,
+          51.4371251,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Smalle Haven",
+        "description": "design shop",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.482518,
+          51.434259,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Van Abbemuseum",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.469737,
+          51.441125,
+          0
+        ]
+      },
+      "properties": {
+        "name": "TAC",
+        "description": "temporary art centre",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4945833,
+          51.477141,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Flipside",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.485339,
+          51.43668,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Onomatopee",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.46466,
+          51.428362,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De fabriek",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47488,
+          51.439507,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MU",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.516121,
+          51.442756,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Overslag",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45432567596436,
+          51.4401255039541,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arktheater",
+        "description": "One of the last standing squat. Open for collaborations about art",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4822222,
+          51.4361111,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oude Techtbank",
+        "description": "cultural space in the centre of Eindhoven ",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4585099,
+          51.4476418,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Feel good market",
+        "description": "http://feelgoodmarket.nl/",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.474641,
+          51.439554,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Design Academy",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.5087,
+            51.43459,
+            0
+          ],
+          [
+            5.50464,
+            51.43504,
+            0
+          ],
+          [
+            5.50447,
+            51.43505,
+            0
+          ],
+          [
+            5.50431,
+            51.43507,
+            0
+          ],
+          [
+            5.50415,
+            51.4351,
+            0
+          ],
+          [
+            5.50402,
+            51.43512,
+            0
+          ],
+          [
+            5.5039,
+            51.43514,
+            0
+          ],
+          [
+            5.50375,
+            51.43517,
+            0
+          ],
+          [
+            5.5036,
+            51.4352,
+            0
+          ],
+          [
+            5.49973,
+            51.43574,
+            0
+          ],
+          [
+            5.49816,
+            51.43594,
+            0
+          ],
+          [
+            5.49697,
+            51.4361,
+            0
+          ],
+          [
+            5.49586,
+            51.43627,
+            0
+          ],
+          [
+            5.49502,
+            51.43638,
+            0
+          ],
+          [
+            5.49492,
+            51.43639,
+            0
+          ],
+          [
+            5.49418,
+            51.43648,
+            0
+          ],
+          [
+            5.49399,
+            51.4365,
+            0
+          ],
+          [
+            5.4938,
+            51.43653,
+            0
+          ],
+          [
+            5.49367,
+            51.43655,
+            0
+          ],
+          [
+            5.49354,
+            51.43658,
+            0
+          ],
+          [
+            5.49349,
+            51.43666,
+            0
+          ],
+          [
+            5.49344,
+            51.43674,
+            0
+          ],
+          [
+            5.49337,
+            51.43686,
+            0
+          ],
+          [
+            5.49332,
+            51.43695,
+            0
+          ],
+          [
+            5.49325,
+            51.43704,
+            0
+          ],
+          [
+            5.49319,
+            51.43714,
+            0
+          ],
+          [
+            5.49314,
+            51.43715,
+            0
+          ],
+          [
+            5.4931,
+            51.43715,
+            0
+          ],
+          [
+            5.49299,
+            51.43717,
+            0
+          ],
+          [
+            5.49288,
+            51.43719,
+            0
+          ],
+          [
+            5.49273,
+            51.43722,
+            0
+          ],
+          [
+            5.49258,
+            51.43724,
+            0
+          ],
+          [
+            5.49247,
+            51.43726,
+            0
+          ],
+          [
+            5.49235,
+            51.43728,
+            0
+          ],
+          [
+            5.49227,
+            51.4373,
+            0
+          ],
+          [
+            5.49219,
+            51.43731,
+            0
+          ],
+          [
+            5.4919,
+            51.4375,
+            0
+          ],
+          [
+            5.49161,
+            51.43768,
+            0
+          ],
+          [
+            5.4917,
+            51.43773,
+            0
+          ],
+          [
+            5.49173,
+            51.43775,
+            0
+          ],
+          [
+            5.49149,
+            51.43793,
+            0
+          ],
+          [
+            5.49138,
+            51.43801,
+            0
+          ],
+          [
+            5.49048,
+            51.43871,
+            0
+          ],
+          [
+            5.48971,
+            51.43919,
+            0
+          ],
+          [
+            5.48896,
+            51.43966,
+            0
+          ],
+          [
+            5.48859,
+            51.43944,
+            0
+          ],
+          [
+            5.48847,
+            51.43937,
+            0
+          ],
+          [
+            5.48842,
+            51.43934,
+            0
+          ],
+          [
+            5.48839,
+            51.43933,
+            0
+          ],
+          [
+            5.48837,
+            51.43933,
+            0
+          ],
+          [
+            5.48833,
+            51.43932,
+            0
+          ],
+          [
+            5.48828,
+            51.43932,
+            0
+          ],
+          [
+            5.48822,
+            51.43933,
+            0
+          ],
+          [
+            5.48765,
+            51.4394,
+            0
+          ],
+          [
+            5.48765,
+            51.43934,
+            0
+          ],
+          [
+            5.48764,
+            51.43929,
+            0
+          ],
+          [
+            5.48761,
+            51.43923,
+            0
+          ],
+          [
+            5.48759,
+            51.43919,
+            0
+          ],
+          [
+            5.48761,
+            51.43923,
+            0
+          ],
+          [
+            5.48764,
+            51.43929,
+            0
+          ],
+          [
+            5.48765,
+            51.43934,
+            0
+          ],
+          [
+            5.48765,
+            51.4394,
+            0
+          ],
+          [
+            5.48822,
+            51.43933,
+            0
+          ],
+          [
+            5.48828,
+            51.43932,
+            0
+          ],
+          [
+            5.48833,
+            51.43932,
+            0
+          ],
+          [
+            5.48837,
+            51.43933,
+            0
+          ],
+          [
+            5.48839,
+            51.43933,
+            0
+          ],
+          [
+            5.48842,
+            51.43934,
+            0
+          ],
+          [
+            5.48847,
+            51.43937,
+            0
+          ],
+          [
+            5.48859,
+            51.43944,
+            0
+          ],
+          [
+            5.48896,
+            51.43966,
+            0
+          ],
+          [
+            5.48971,
+            51.43919,
+            0
+          ],
+          [
+            5.49048,
+            51.43871,
+            0
+          ],
+          [
+            5.49138,
+            51.43801,
+            0
+          ],
+          [
+            5.49149,
+            51.43793,
+            0
+          ],
+          [
+            5.49173,
+            51.43775,
+            0
+          ],
+          [
+            5.4917,
+            51.43773,
+            0
+          ],
+          [
+            5.49161,
+            51.43768,
+            0
+          ],
+          [
+            5.4919,
+            51.4375,
+            0
+          ],
+          [
+            5.49219,
+            51.43731,
+            0
+          ],
+          [
+            5.49227,
+            51.4373,
+            0
+          ],
+          [
+            5.49235,
+            51.43728,
+            0
+          ],
+          [
+            5.49247,
+            51.43726,
+            0
+          ],
+          [
+            5.49258,
+            51.43724,
+            0
+          ],
+          [
+            5.49273,
+            51.43722,
+            0
+          ],
+          [
+            5.49288,
+            51.43719,
+            0
+          ],
+          [
+            5.49299,
+            51.43717,
+            0
+          ],
+          [
+            5.4931,
+            51.43715,
+            0
+          ],
+          [
+            5.49314,
+            51.43715,
+            0
+          ],
+          [
+            5.49319,
+            51.43714,
+            0
+          ],
+          [
+            5.49325,
+            51.43704,
+            0
+          ],
+          [
+            5.49332,
+            51.43695,
+            0
+          ],
+          [
+            5.49337,
+            51.43686,
+            0
+          ],
+          [
+            5.49344,
+            51.43674,
+            0
+          ],
+          [
+            5.49349,
+            51.43666,
+            0
+          ],
+          [
+            5.49354,
+            51.43658,
+            0
+          ],
+          [
+            5.49367,
+            51.43655,
+            0
+          ],
+          [
+            5.4938,
+            51.43653,
+            0
+          ],
+          [
+            5.49399,
+            51.4365,
+            0
+          ],
+          [
+            5.49418,
+            51.43648,
+            0
+          ],
+          [
+            5.49422,
+            51.43661,
+            0
+          ],
+          [
+            5.49436,
+            51.4366,
+            0
+          ],
+          [
+            5.49445,
+            51.43658,
+            0
+          ],
+          [
+            5.49468,
+            51.43655,
+            0
+          ],
+          [
+            5.49491,
+            51.43652,
+            0
+          ],
+          [
+            5.49513,
+            51.43649,
+            0
+          ],
+          [
+            5.49536,
+            51.43646,
+            0
+          ],
+          [
+            5.49552,
+            51.43644,
+            0
+          ],
+          [
+            5.49555,
+            51.43643,
+            0
+          ],
+          [
+            5.49557,
+            51.43644,
+            0
+          ],
+          [
+            5.49558,
+            51.43646,
+            0
+          ],
+          [
+            5.49559,
+            51.43647,
+            0
+          ],
+          [
+            5.49567,
+            51.43666,
+            0
+          ],
+          [
+            5.49569,
+            51.4367,
+            0
+          ],
+          [
+            5.49572,
+            51.43674,
+            0
+          ],
+          [
+            5.49573,
+            51.43678,
+            0
+          ],
+          [
+            5.49572,
+            51.43674,
+            0
+          ],
+          [
+            5.49569,
+            51.4367,
+            0
+          ],
+          [
+            5.49599,
+            51.43665,
+            0
+          ],
+          [
+            5.496,
+            51.43665,
+            0
+          ],
+          [
+            5.49586,
+            51.43627,
+            0
+          ],
+          [
+            5.49697,
+            51.4361,
+            0
+          ],
+          [
+            5.49816,
+            51.43594,
+            0
+          ],
+          [
+            5.49973,
+            51.43574,
+            0
+          ],
+          [
+            5.5036,
+            51.4352,
+            0
+          ],
+          [
+            5.50357,
+            51.43511,
+            0
+          ],
+          [
+            5.50353,
+            51.43501,
+            0
+          ],
+          [
+            5.5035,
+            51.43493,
+            0
+          ],
+          [
+            5.50347,
+            51.43487,
+            0
+          ],
+          [
+            5.50316,
+            51.43419,
+            0
+          ],
+          [
+            5.50285,
+            51.43351,
+            0
+          ],
+          [
+            5.50284,
+            51.43341,
+            0
+          ],
+          [
+            5.50282,
+            51.43332,
+            0
+          ],
+          [
+            5.50281,
+            51.43328,
+            0
+          ],
+          [
+            5.50279,
+            51.43323,
+            0
+          ],
+          [
+            5.5028,
+            51.43213,
+            0
+          ],
+          [
+            5.5028,
+            51.43201,
+            0
+          ],
+          [
+            5.50281,
+            51.43199,
+            0
+          ],
+          [
+            5.50282,
+            51.43198,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Indicazioni stradali da Metal Scapyard a Beeldestorm - casting workshop ",
+        "tessellate": 1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.508705,
+          51.4345863,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Metal Scapyard",
+        "description": "De Kade, Kanaaldijk-Noord 107, 5642 JA Eindhoven, Paesi Bassi",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4875904,
+          51.4391873,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beeldestorm - casting workshop ",
+        "description": "Nachtegaallaan 6-8, 5611 CV Eindhoven, Paesi Bassi",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4957315,
+          51.4367807,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Praxis Bouwmarkt",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5028156,
+          51.4319845,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De Grootste Bazaar",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Indicazioni stradali da Metal Scapyard a Beeldestorm - casting workshop ",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": 1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.5087,
+            51.43459,
+            0
+          ],
+          [
+            5.50464,
+            51.43504,
+            0
+          ],
+          [
+            5.50447,
+            51.43505,
+            0
+          ],
+          [
+            5.50431,
+            51.43507,
+            0
+          ],
+          [
+            5.50415,
+            51.4351,
+            0
+          ],
+          [
+            5.50402,
+            51.43512,
+            0
+          ],
+          [
+            5.5039,
+            51.43514,
+            0
+          ],
+          [
+            5.50375,
+            51.43517,
+            0
+          ],
+          [
+            5.5036,
+            51.4352,
+            0
+          ],
+          [
+            5.49973,
+            51.43574,
+            0
+          ],
+          [
+            5.49816,
+            51.43594,
+            0
+          ],
+          [
+            5.49697,
+            51.4361,
+            0
+          ],
+          [
+            5.49586,
+            51.43627,
+            0
+          ],
+          [
+            5.49502,
+            51.43638,
+            0
+          ],
+          [
+            5.49492,
+            51.43639,
+            0
+          ],
+          [
+            5.49418,
+            51.43648,
+            0
+          ],
+          [
+            5.49399,
+            51.4365,
+            0
+          ],
+          [
+            5.4938,
+            51.43653,
+            0
+          ],
+          [
+            5.49367,
+            51.43655,
+            0
+          ],
+          [
+            5.49354,
+            51.43658,
+            0
+          ],
+          [
+            5.49349,
+            51.43666,
+            0
+          ],
+          [
+            5.49344,
+            51.43674,
+            0
+          ],
+          [
+            5.49337,
+            51.43686,
+            0
+          ],
+          [
+            5.49332,
+            51.43695,
+            0
+          ],
+          [
+            5.49325,
+            51.43704,
+            0
+          ],
+          [
+            5.49319,
+            51.43714,
+            0
+          ],
+          [
+            5.49314,
+            51.43715,
+            0
+          ],
+          [
+            5.4931,
+            51.43715,
+            0
+          ],
+          [
+            5.49299,
+            51.43717,
+            0
+          ],
+          [
+            5.49288,
+            51.43719,
+            0
+          ],
+          [
+            5.49273,
+            51.43722,
+            0
+          ],
+          [
+            5.49258,
+            51.43724,
+            0
+          ],
+          [
+            5.49247,
+            51.43726,
+            0
+          ],
+          [
+            5.49235,
+            51.43728,
+            0
+          ],
+          [
+            5.49227,
+            51.4373,
+            0
+          ],
+          [
+            5.49219,
+            51.43731,
+            0
+          ],
+          [
+            5.4919,
+            51.4375,
+            0
+          ],
+          [
+            5.49161,
+            51.43768,
+            0
+          ],
+          [
+            5.4917,
+            51.43773,
+            0
+          ],
+          [
+            5.49173,
+            51.43775,
+            0
+          ],
+          [
+            5.49149,
+            51.43793,
+            0
+          ],
+          [
+            5.49138,
+            51.43801,
+            0
+          ],
+          [
+            5.49048,
+            51.43871,
+            0
+          ],
+          [
+            5.48971,
+            51.43919,
+            0
+          ],
+          [
+            5.48896,
+            51.43966,
+            0
+          ],
+          [
+            5.48859,
+            51.43944,
+            0
+          ],
+          [
+            5.48847,
+            51.43937,
+            0
+          ],
+          [
+            5.48842,
+            51.43934,
+            0
+          ],
+          [
+            5.48839,
+            51.43933,
+            0
+          ],
+          [
+            5.48837,
+            51.43933,
+            0
+          ],
+          [
+            5.48833,
+            51.43932,
+            0
+          ],
+          [
+            5.48828,
+            51.43932,
+            0
+          ],
+          [
+            5.48822,
+            51.43933,
+            0
+          ],
+          [
+            5.48765,
+            51.4394,
+            0
+          ],
+          [
+            5.48765,
+            51.43934,
+            0
+          ],
+          [
+            5.48764,
+            51.43929,
+            0
+          ],
+          [
+            5.48761,
+            51.43923,
+            0
+          ],
+          [
+            5.48759,
+            51.43919,
+            0
+          ],
+          [
+            5.48761,
+            51.43923,
+            0
+          ],
+          [
+            5.48764,
+            51.43929,
+            0
+          ],
+          [
+            5.48765,
+            51.43934,
+            0
+          ],
+          [
+            5.48765,
+            51.4394,
+            0
+          ],
+          [
+            5.48822,
+            51.43933,
+            0
+          ],
+          [
+            5.48828,
+            51.43932,
+            0
+          ],
+          [
+            5.48833,
+            51.43932,
+            0
+          ],
+          [
+            5.48837,
+            51.43933,
+            0
+          ],
+          [
+            5.48839,
+            51.43933,
+            0
+          ],
+          [
+            5.48842,
+            51.43934,
+            0
+          ],
+          [
+            5.48847,
+            51.43937,
+            0
+          ],
+          [
+            5.48859,
+            51.43944,
+            0
+          ],
+          [
+            5.48896,
+            51.43966,
+            0
+          ],
+          [
+            5.48971,
+            51.43919,
+            0
+          ],
+          [
+            5.49048,
+            51.43871,
+            0
+          ],
+          [
+            5.49138,
+            51.43801,
+            0
+          ],
+          [
+            5.49149,
+            51.43793,
+            0
+          ],
+          [
+            5.49173,
+            51.43775,
+            0
+          ],
+          [
+            5.4917,
+            51.43773,
+            0
+          ],
+          [
+            5.49161,
+            51.43768,
+            0
+          ],
+          [
+            5.4919,
+            51.4375,
+            0
+          ],
+          [
+            5.49219,
+            51.43731,
+            0
+          ],
+          [
+            5.49227,
+            51.4373,
+            0
+          ],
+          [
+            5.49235,
+            51.43728,
+            0
+          ],
+          [
+            5.49247,
+            51.43726,
+            0
+          ],
+          [
+            5.49258,
+            51.43724,
+            0
+          ],
+          [
+            5.49273,
+            51.43722,
+            0
+          ],
+          [
+            5.49288,
+            51.43719,
+            0
+          ],
+          [
+            5.49299,
+            51.43717,
+            0
+          ],
+          [
+            5.4931,
+            51.43715,
+            0
+          ],
+          [
+            5.49314,
+            51.43715,
+            0
+          ],
+          [
+            5.49319,
+            51.43714,
+            0
+          ],
+          [
+            5.49325,
+            51.43704,
+            0
+          ],
+          [
+            5.49332,
+            51.43695,
+            0
+          ],
+          [
+            5.49337,
+            51.43686,
+            0
+          ],
+          [
+            5.49344,
+            51.43674,
+            0
+          ],
+          [
+            5.49349,
+            51.43666,
+            0
+          ],
+          [
+            5.49354,
+            51.43658,
+            0
+          ],
+          [
+            5.49367,
+            51.43655,
+            0
+          ],
+          [
+            5.4938,
+            51.43653,
+            0
+          ],
+          [
+            5.49399,
+            51.4365,
+            0
+          ],
+          [
+            5.49418,
+            51.43648,
+            0
+          ],
+          [
+            5.49422,
+            51.43661,
+            0
+          ],
+          [
+            5.49436,
+            51.4366,
+            0
+          ],
+          [
+            5.49445,
+            51.43658,
+            0
+          ],
+          [
+            5.49468,
+            51.43655,
+            0
+          ],
+          [
+            5.49491,
+            51.43652,
+            0
+          ],
+          [
+            5.49513,
+            51.43649,
+            0
+          ],
+          [
+            5.49536,
+            51.43646,
+            0
+          ],
+          [
+            5.49552,
+            51.43644,
+            0
+          ],
+          [
+            5.49555,
+            51.43643,
+            0
+          ],
+          [
+            5.49557,
+            51.43644,
+            0
+          ],
+          [
+            5.49558,
+            51.43646,
+            0
+          ],
+          [
+            5.49559,
+            51.43647,
+            0
+          ],
+          [
+            5.49567,
+            51.43666,
+            0
+          ],
+          [
+            5.49569,
+            51.4367,
+            0
+          ],
+          [
+            5.49572,
+            51.43674,
+            0
+          ],
+          [
+            5.49573,
+            51.43678,
+            0
+          ],
+          [
+            5.49572,
+            51.43674,
+            0
+          ],
+          [
+            5.49569,
+            51.4367,
+            0
+          ],
+          [
+            5.49599,
+            51.43665,
+            0
+          ],
+          [
+            5.496,
+            51.43665,
+            0
+          ],
+          [
+            5.49586,
+            51.43627,
+            0
+          ],
+          [
+            5.49697,
+            51.4361,
+            0
+          ],
+          [
+            5.49816,
+            51.43594,
+            0
+          ],
+          [
+            5.49973,
+            51.43574,
+            0
+          ],
+          [
+            5.5036,
+            51.4352,
+            0
+          ],
+          [
+            5.50357,
+            51.43511,
+            0
+          ],
+          [
+            5.50353,
+            51.43501,
+            0
+          ],
+          [
+            5.5035,
+            51.43493,
+            0
+          ],
+          [
+            5.50347,
+            51.43487,
+            0
+          ],
+          [
+            5.50316,
+            51.43419,
+            0
+          ],
+          [
+            5.50285,
+            51.43351,
+            0
+          ],
+          [
+            5.50284,
+            51.43341,
+            0
+          ],
+          [
+            5.50282,
+            51.43332,
+            0
+          ],
+          [
+            5.50281,
+            51.43328,
+            0
+          ],
+          [
+            5.50279,
+            51.43323,
+            0
+          ],
+          [
+            5.5028,
+            51.43213,
+            0
+          ],
+          [
+            5.5028,
+            51.43201,
+            0
+          ],
+          [
+            5.50281,
+            51.43199,
+            0
+          ],
+          [
+            5.50282,
+            51.43198,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Metal Scapyard",
+        "description": "De Kade, Kanaaldijk-Noord 107, 5642 JA Eindhoven, Paesi Bassi",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.508705,
+          51.4345863,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beeldestorm - casting workshop ",
+        "description": "Nachtegaallaan 6-8, 5611 CV Eindhoven, Paesi Bassi",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4875904,
+          51.4391873,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Praxis Bouwmarkt",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4957315,
+          51.4367807,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Grootste Bazaar",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5028156,
+          51.4319845,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Grootste Bazaar",
+        "description": "second hand supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5027988,
+          51.4319798,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Karosell",
+        "description": "second hand furniture + electronics ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.46186680000005,
+          51.4520612,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kringloopwinkel",
+        "description": "second hand shop - clothes mainly ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4586697,
+          51.4225624,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Het Goed",
+        "description": "very big second hand shop with all kinds of supplies. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44238680000001,
+          51.4278566,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Polish Market",
+        "description": "big second hand store with a special section about old toys and table games.  http://www.wereldhuiseindhoven.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.461075,
+          51.4252036,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Terre des Hommes ",
+        "description": "Second hand shop. All the supplies are sold for charities for children.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49894180000001,
+          51.4232138,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spulletjes & Zo",
+        "description": "Second hand shop",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.499615,
+          51.4229857,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quilt Puzzel",
+        "description": "Second hand shop. Nice Fabrics for cheap prices. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4717605,
+          51.4498343,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stoffen & Fournituren ",
+        "description": "Second hand shop focused on fabrics.  ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4701973,
+          51.4288378,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Teunissen ",
+        "description": "electronics - Big hardware store. They have a metal dump in the back to collect free metal. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45721930000002,
+          51.4221631,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Collse Waterlelie",
+        "description": "gardening supplies - special fabrics, fishes, stones etc..  ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.529688,
+          51.450196,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Warmteservice Eindhoven",
+        "description": "metal tubes for ventilation ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440262,
+          51.433019,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beek Art Supplies Van",
+        "description": "art supplies",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47549,
+          51.446921,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Civo Design BV",
+        "description": "art supplies",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475171,
+          51.440068,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "WillieS Modelbouw Centrum",
+        "description": "modeling supplies",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475241,
+          51.447092,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GAMMA",
+        "description": "bricolage ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49753,
+          51.436337,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Praxis Bouwmarkt",
+        "description": "bricolage",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.495662,
+          51.436791,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tuesday Market",
+        "description": "fabrics",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47786740000004,
+          51.4415073,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Van der Vleuten Bouwmaterialen",
+        "description": "second hand materials  http://www.vleutenbouwmaterialen.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4134604,
+          51.5087826,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Teunissen Scrapyard",
+        "description": "metal scrapyard",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4570299,
+          51.4220061,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kees Berende Glassworks",
+        "description": "glass works  http://www.glasblazerijkeesberende.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4418538,
+          51.4748137,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Metal Scrapyard",
+        "description": "http://www.amvandemortel.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5087387,
+          51.4347045,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lucas",
+        "description": "materials and tools http://www.lucas-vakmaterialen.nl/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.436279,
+          51.4369148,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pipoos",
+        "description": "art supplies www.pipoos.nl",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47608960000002,
+          51.441921,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Praxis Eindhoven (Plan-it)",
+        "description": "DIY shop",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.427897,
+          51.435383,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Action",
+        "description": "discount store - Spraypaint, tools, office supplies, toys, decorative and do-it-yourself.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4623732,
+          51.4277196,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cheaptronics",
+        "description": "electronics",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47523690000003,
+          51.4472789,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Yoga Studio Eindhoven",
+        "description": "cork supplier ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.465423,
+          51.430628,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brammer Eindhoven B.V.",
+        "description": "bearings + mechanical parts ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.479003,
+          51.478768,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rogimac ",
+        "description": "second hand machines + small workshop for assembling metal parts. Skills: welder+miller",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47799348831177,
+          51.4788839147007,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "smitje creations",
+        "description": "textile and sewing supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475454,
+          51.437571,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tielemans Naaimachines B.V.",
+        "description": "sewing machines and parts supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.471641,
+          51.451979,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Amazing Oriental Eindhoven",
+        "description": "various specialized ingredients. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.464846,
+          51.439867,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "De Kampeermarkt",
+        "description": "camping tools supplier. ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45167,
+          51.431255,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biological Farm",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47449460000007,
+          51.4202685,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "EKC Afbouwmaterialen",
+        "description": "Sanitary supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.502783,
+          51.435408,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "repro rijnija",
+        "description": "big printshop, 30% discount for students  http://www.rijnja.nl/ ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43346270000006,
+          51.418728,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ERIKS Kunstoffen Eindhoven",
+        "description": "acrylic supplier, prexiglass sheets, various thicknesses. email: Coen.Faassen@Eriks.nl ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.441779,
+          51.477904,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Urkhovenseweg 570",
+        "description": "gardening supplier",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52812340000003,
+          51.4409332,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "art supplier",
+        "description": "art supplies + book binding material ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47290802001953,
+          51.4382629615223,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brigatti Electronics V.O.F.",
+        "description": "electric appliances ",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503846,
+          51.438489,
+          0
+        ]
+      }
+    }
+  ]
+}
