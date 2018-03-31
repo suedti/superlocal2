@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Marmor Menapace",
+        "description": "gravestone makers and stone manufacturers ",
+        "popup-shorttext": "",
+        "colore": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3723409,
+          46.4951167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Faculty of Design and Art of Bolzano",
+        "description": "wood workshop and CNC workshop ",
+        "popup-shorttext": "wood turning of the handle and CNC milling",
+        "colore": "",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3505898,
+          46.4988629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 0,
+        "geometry": "Point",
+        "name": "Ramoser Holz Srl",
+        "description": "wood supplier",
+        "popup-shorttext": "walnut for the handle ",
+        "colore": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3336298,
+          46.4854086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.333513259887695,
+            46.48562868298165
+          ],
+          [
+            11.33887767791748,
+            46.48624920383944
+          ],
+          [
+            11.342611312866211,
+            46.48746067654257
+          ],
+          [
+            11.343512535095215,
+            46.488288008249754
+          ],
+          [
+            11.34188175201416,
+            46.49009036590013
+          ],
+          [
+            11.341280937194824,
+            46.49192220919719
+          ],
+          [
+            11.342911720275879,
+            46.494640314582846
+          ],
+          [
+            11.348490715026855,
+            46.49472894616696
+          ],
+          [
+            11.348834037780762,
+            46.49703331665122
+          ],
+          [
+            11.349477767944336,
+            46.499012633847116
+          ],
+          [
+            11.353855133056639,
+            46.498599051133894
+          ],
+          [
+            11.364326477050781,
+            46.50119866164355
+          ],
+          [
+            11.369519233703612,
+            46.496028859471316
+          ],
+          [
+            11.372394561767576,
+            46.49523118908169
+          ]
+        ]
+      }
+    }
+  ]
+}
